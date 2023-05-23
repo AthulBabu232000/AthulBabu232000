@@ -1,7 +1,7 @@
 <!--[![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)--><!-- If you want the template for my gif, email me! -->
 
-<h1 align="center">Hi 👋, I'm Athul Babu</h1>
-<h3 align="center">A psychic developer</h3>
+<h1 align="center">I'm Athul Babu a.k.a Copy Coder</h1>
+<h3 align="center">Babu, The Copy Coder. I know a thousand algorithms. After this contest I am reaching my boiling point. I will use each one of them and live up to my name.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AthulBabu232000&label=Profile%20views&color=0e75b6&style=flat" alt="AthulBabu232000" /> </p>
 
