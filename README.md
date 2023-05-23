@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **gsap, bootstrap, python, javascript, css**
+- 💬 Ask me about **C#, Python, Javascript, C++, C**
 
-- 📫 How to reach me **luhta232000@gmail.com**
+- 📫 How to reach me **[copycoder](https://www.linkedin.com/in/ababu2/)**
 
 - ⚡ Fun fact **Let me put some dirt on your eye**
 
